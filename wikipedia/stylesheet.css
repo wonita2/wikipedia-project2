@@ -1,0 +1,17 @@
+body {font-family: 'Koulen', cursive;
+    font-family: 'Odibee Sans', cursive;
+    font-family: 'Space Mono', monospace;
+font-weight: 700;}
+
+.background_image {
+    background-image: url(images/water.jpg);
+background-size: cover;
+background-attachment: fixed;
+background-position: center;}
+
+.background_image2{
+    background-image: url(images/kidsinternet.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
